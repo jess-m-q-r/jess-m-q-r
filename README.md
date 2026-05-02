@@ -77,6 +77,45 @@ I am a teaching assistant for the Introduction to Programming course.
   </tr>
 </table>
 
+# Programming Languages
+<table>
+  <tr>
+    <td valign="middle">
+      <a href="https://www.python.org/">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40">
+      </a>
+    </td>
+    <td valign="middle">
+      <b>Python</b><br>
+      <sub>General-purpose programming and problem solving</sub>
+    </td>
+  </tr>
+
+  <tr>
+    <td valign="middle">
+      <a href="https://isocpp.org/">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40">
+      </a>
+    </td>
+    <td valign="middle">
+      <b>C++</b><br>
+      <sub>Algorithms and competitive programming</sub>
+    </td>
+  </tr>
+
+  <tr>
+    <td valign="middle">
+      <a href="https://www.java.com/">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40">
+      </a>
+    </td>
+    <td valign="middle">
+      <b>Java</b><br>
+      <sub>Object-oriented programming</sub>
+    </td>
+  </tr>
+</table>
+
 # Technologies
 
 ## Frontend
